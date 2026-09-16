@@ -1,4 +1,4 @@
-# Aditya Dwi Putra 
+# <div align="center"> Aditya Dwi Putra <div align="center">
 
 <div align="center">
 
