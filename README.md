@@ -1,4 +1,3 @@
-# README.md
 # ⚡ Aditya Dwi Putra — Personal Portfolio & Engineering Showcase
 
 <div align="center">
@@ -9,6 +8,14 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4.3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-FEE75C?style=for-the-badge&logo=conventionalcommits&logoColor=black)](https://www.conventionalcommits.org/)
 [![License](https://img.shields.io/badge/License-MIT-3B82F6?style=for-the-badge)](LICENSE)
+
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,nodejs,php,laravel,python,postgres,mysql,supabase,figma,postman,vscode,git,github,npm" alt="Tech Stack & Tools Marquee Icons" />
+  </a>
+</p>
 
 **An editorial, high-performance web portfolio and interactive showcase representing Aditya Dwi Putra's engineering journey as a System Analyst & Fullstack Web Developer.**
 
@@ -32,15 +39,78 @@ Portofolio ini dibangun dengan standar arsitektur bersih, tipografi editorial ko
 
 ## 🛠️ Technical Competencies & Skills Matrix
 
-### 📐 System Analysis & Process Modeling
+Koleksi lengkap teknologi, bahasa pemrograman, framework, basis data, dan tools analisis sistem yang digunakan serta ditampilkan dalam portofolio:
+
+### 📐 System Analysis, UI/UX & Design Tools
+[![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
+
 - **Metodologi & Standar**: Software Requirements Specification (SRS), Business Process Modeling Notation (BPMN 2.0), Unified Modeling Language (UML: Use Case, Activity, Sequence), Entity Relationship Diagram (ERD), Data Flow Diagram (DFD).
-- **Software Analysis Tools**: Draw.io (Tingkat Mahir 95%), Figma Wireframing & Prototyping (82%), Postman API Testing.
+- **Software Analysis Tools**: Draw.io (Tingkat Mahir 95%), Figma Wireframing & Prototyping (82%), Canva (80%), Postman API Testing.
 - **Analisis Kebutuhan**: Stakeholder Interview, Requirement Elicitation, User Flow Mapping, Role-Based Access Control (RBAC).
 
-### 💻 Fullstack Web Engineering
-- **Frontend Architecture**: React 19, Next.js, TypeScript, Modern JavaScript (ES6+), Tailwind CSS v4, Vanilla CSS Design Tokens, Responsive & Mobile-First Layouts.
-- **Backend & Database**: RESTful API Design, PostgreSQL, Supabase, Multi-Tenant Data Isolation, Payment Gateway Webhook Lifecycle.
-- **Build Tools & Workflow**: Vite 8, Rolldown / Rollup Bundler, Git & GitHub (88%), npm, Commitizen SemVer.
+### 💻 Frontend & Web Engineering
+[![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+
+- **Frontend Architecture**: React 19, Next.js, TypeScript, Modern JavaScript (ES6+), Tailwind CSS v4, Vanilla CSS Design Tokens, Responsive & Mobile-First Layouts, Component Modularization.
+
+### ⚙️ Backend, Runtime & API Engineering
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+
+- **Backend & Integrasi**: RESTful API Design, Express/Node.js, PHP & Laravel Framework, Python Automation, Multi-Tenant Data Isolation, Payment Gateway Webhook Lifecycle.
+
+### 🗄️ Database & Cloud Services
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+
+- **Data Management**: Relational Database Design, Schema Normalization, Relational Integrity, Tenant Data Partitioning, Supabase Backend-as-a-Service.
+
+### 🛠️ Development Tools & Version Control
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
+- **Workflow & Environment**: Visual Studio Code, Git CLI, GitHub Collaboration & CI/CD, npm Package Management, Commitizen SemVer Standard.
+
+### 📊 Master Skill & Software Matrix
+
+| Alat / Teknologi | Kategori | Logo & Badge | Tingkat Penguasaan | Fokus & Penerapan Teknis |
+| :--- | :--- | :--- | :---: | :--- |
+| **Draw.io** | UML & Process Modeling | [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net/) | **95% (Mahir)** | Use Case, Activity & Sequence Diagram, ERD, DFD |
+| **VS Code** | Primary Development IDE | [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) | **88% (Mahir)** | Fullstack coding environment, extensions, debugging |
+| **Git & GitHub** | Version Control & Collab | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) | **88% (Mahir)** | Git branching, pull requests, Conventional Commits |
+| **Figma** | UI/UX & Wireframing | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/) | **82% (Menengah+)** | Low/High-fidelity wireframing & user flow prototyping |
+| **Canva** | Technical Visual Materials | [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://canva.com/) | **80% (Menengah+)** | Materi presentasi teknis, visual branding, infografis |
+| **Postman** | API Testing & Debugging | [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://postman.com/) | **Mahir** | Endpoint testing, webhook simulation, payload validation |
+| **React.js** | Frontend Library | [![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) | **Mahir** | SPA modern, hooks arsitektur, responsive UX |
+| **Next.js** | Fullstack Web Framework | [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | **Mahir** | SSR/SSG, dynamic routing, arsitektur SaaS multi-tenant |
+| **TypeScript** | Type-Safe Programming | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | **Mahir** | Strict typing, enterprise scalability, data interfaces |
+| **JavaScript** | Core Scripting Language | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | **Mahir** | ES6+, async/await, DOM manipulation, business logic |
+| **Tailwind CSS** | Styling Engine | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) | **Mahir** | Desain token, custom utilities, fluid typography |
+| **HTML5 & CSS3** | Web Foundation | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | **Mahir** | Semantic markup, accessibility, modern styling & layout |
+| **PostgreSQL** | Relational Database | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | **Mahir** | Multi-tenant schema design, indexing, audit trail |
+| **MySQL** | Relational Database | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) | **Mahir** | Skema relasional, stored procedures, optimasi query |
+| **Supabase** | Cloud BaaS & Auth | [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/) | **Menengah** | Cloud Postgres, row-level security, auth integration |
+| **Node.js** | Backend Runtime | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) | **Mahir** | RESTful services, middleware, headless automation scripts |
+| **PHP & Laravel** | Backend MVC Framework | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/) [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/) | **Menengah+** | MVC web applications, Eloquent ORM, REST API |
+| **Python** | High-Level Programming | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) | **Menengah** | Automasi skrip, pemrosesan data, kalkulasi logika |
+| **Vite** | Frontend Tooling | [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/) | **Mahir** | Ultra-fast bundling, HMR, modular packaging |
+| **npm** | Package Manager | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/) | **Mahir** | Manajemen dependensi, build lifecycle scripts |
 
 ### 🏛️ Leadership & Governance
 - **Manajemen Organisasi**: Memimpin 50+ fungsionaris Himpunan Mahasiswa Jurusan TI Polinela dan mengeksekusi 11+ program kerja strategis lintas divisi.
@@ -59,7 +129,7 @@ Platform SaaS manajemen keuangan multi-tenant komprehensif yang dirancang untuk 
 - **Alur Persetujuan E-Statement 3-Tier**: Penutupan kas harian digital *paperless* dengan verifikasi bertingkat (*Bendahara* &rarr; *Kepala Sekolah* &rarr; *Pengurus Yayasan*).
 - **Billing SPP & Invoicing Massal**: Mesin penagihan tagihan siswa massal otomatis dengan pelacakan cicilan parsial dan pencetakan kuitansi digital.
 - **Rekonsiliasi Bank**: Sinkronisasi pencatatan jurnal kas dengan mutasi rekening koran dan deteksi anomali saldo.
-- **Tech Stack**: `Next.js`, `React`, `TypeScript`, `Tailwind CSS`, `REST API`, `PostgreSQL`, `Multi-Tenant Architecture`.
+- **Tech Stack**: [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=flat-square&logo=fastapi&logoColor=white)](https://restfulapi.net/) `Multi-Tenant Architecture`
 
 ---
 
@@ -72,7 +142,7 @@ Platform digital penjualan tiket online dan pemungutan suara pemilihan real-time
 - **Integrasi Payment Gateway Multi-Channel**: Transaksi pembayaran instan otomatis melalui QRIS, Virtual Account bank, dan E-Wallet dengan konfirmasi webhook.
 - **Dashboard Event Organizer**: Panel analitik penjualan tiket, rekapitulasi data demografi pengunjung, dan ekspor laporan keuangan.
 - **Distribusi Tiket Fisik Gelang**: Manajemen siklus produksi tiket fisik dan verifikasi gerbang masuk acara.
-- **Tech Stack**: `React`, `Next.js`, `JavaScript`, `Tailwind CSS`, `Payment Gateway Integration`, `REST API`.
+- **Tech Stack**: [![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=flat-square&logo=fastapi&logoColor=white)](https://restfulapi.net/) `Payment Gateway Multi-Channel`
 
 ---
 
@@ -84,7 +154,7 @@ Platform pelatihan digital dan sertifikasi kompetensi yang dirancang khusus untu
 - **Pemodelan UML & User Experience**: Merancang use case, activity diagram, dan alur antarmuka yang ramah bagi audiens lanjut usia (*elderly-friendly UX*).
 - **Modul Pelatihan & Sertifikasi**: Merancang alur registrasi kelas, penyaluran materi digital, serta ujian evaluasi kelulusan sertifikasi.
 - **Penghargaan**: Dianugerahi **Sertifikat Penghargaan Magang Industri** resmi dari Indonesian Certification Center.
-- **Tech Stack**: `System Analysis`, `SRS & UML`, `Draw.io`, `Figma`, `React`.
+- **Tech Stack**: [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/) [![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) [![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=flat-square&logo=fastapi&logoColor=white)](https://restfulapi.net/) `System Analysis & SRS`
 
 ---
 
@@ -92,7 +162,7 @@ Platform pelatihan digital dan sertifikasi kompetensi yang dirancang khusus untu
 *Lead System Analyst — Proyek Kolaborasi Terraserve (2025)*
 - **Spesifikasi Rekayasa Mobile**: Merumuskan SRS komprehensif untuk aplikasi mobile lapangan.
 - **Arsitektur Data & Hak Akses**: Pemodelan UML komprehensif, diagram relasi entitas (*ERD*), dan kontrol akses berbasis peran (*RBAC*).
-- **Tech Stack**: `SRS Documentation`, `UML Modeling`, `BPMN 2.0`, `Draw.io`.
+- **Tech Stack**: [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net/) `SRS Documentation` `UML Modeling` `BPMN 2.0` `ERD & RBAC`
 
 ---
 
@@ -100,7 +170,7 @@ Platform pelatihan digital dan sertifikasi kompetensi yang dirancang khusus untu
 *IT Technical Support Intern — UPA TIK Politeknik Negeri Lampung (2024)*
 - Pemeliharaan jaringan area lokal (*LAN/WLAN*) dan server internal kampus.
 - Penanganan insiden teknis (*onsite troubleshooting*) perangkat keras dan infrastruktur komputasi civitas akademika.
-- **Tech Stack**: `Computer Networking`, `Server Maintenance`, `Hardware Troubleshooting`.
+- **Tech Stack**: `Computer Networking (LAN/WLAN)` `Server Infrastructure` `Hardware Troubleshooting` `IT Technical Support`
 
 ---
 
@@ -114,12 +184,3 @@ Platform pelatihan digital dan sertifikasi kompetensi yang dirancang khusus untu
 | **Sertifikat Partisipasi & Asisten Teknis LKS Nasional** | LKS SMK Tingkat Nasional | Bidang Teknologi Informasi |
 
 ---
-
-## 📄 Interactive ATS-CV Pipeline
-
-Repository ini dilengkapi dengan script generator CV otomatis (`scripts/generate-cv.js`) menggunakan **Headless Chromium Print-to-PDF Pipeline**:
-- Menghasilkan CV format **A4 Portrait ATS-Friendly** dengan tata letak presisi milimeter.
-- Menyediakan output dwibahasa otomatis:
-  - `public/CV_Aditya_Dwi_Putra.pdf` (Versi Bahasa Indonesia)
-  - `public/CV_Aditya_Dwi_Putra_EN.pdf` (Versi Bahasa Inggris)
-- Terintegrasi langsung dengan modal interaktif di website untuk pratinjau instan sebelum diunduh.
