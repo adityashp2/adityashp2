@@ -1,4 +1,4 @@
-# ⚡ Aditya Dwi Putra — Personal Portfolio & Engineering Showcase
+# Aditya Dwi Putra — Personal Portfolio & Engineering Showcase
 
 <div align="center">
 
