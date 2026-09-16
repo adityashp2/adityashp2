@@ -1,4 +1,4 @@
-# Aditya Dwi Putra — Personal Portfolio & Engineering Showcase
+# Aditya Dwi Putra 
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 **An editorial, high-performance web portfolio and interactive showcase representing Aditya Dwi Putra's engineering journey as a System Analyst & Fullstack Web Developer.**
 
-[🌐 Live Website](https://github.com/adityashp2/Portofolio) • [📄 Unduh CV (ID / EN)](#-interactive-ats-cv-pipeline) • [📫 Hubungi Saya](#-contact--socials)
+[🌐 Live Website](https:adityadwiputra.my.id) • [📄 Unduh CV (ID / EN)]([#-interactive-ats-cv-pipeline](https://www.adityadwiputra.my.id/CV_Aditya_Dwi_Putra_EN.pdf)) • [📫 Hubungi Saya](#-contact--socials)
 
 </div>
 
